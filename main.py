@@ -21,4 +21,5 @@ def fmt(x):
         return f"{x:g}"
 
 print(f"Simple Interest: {fmt(si)}")
+
 # Write your code here
