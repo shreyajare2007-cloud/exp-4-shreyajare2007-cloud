@@ -1,6 +1,8 @@
 # AIM: Write a Python program to calculate the simple interest based on user input.
 # Coder:
 # Date:
+# Write your code here
+
 print("Simple Interest Calculator")
 
 print("Enter principal amount:")
@@ -21,4 +23,3 @@ def fmt(x):
         return f"{x:g}"
 
 print(f"Simple Interest: {fmt(si)}")
-# Write your code here
